@@ -1,51 +1,44 @@
-# React Router Demo 🚀
+<h1>🚀 React Router Demo</h1>
 
-A simple and clean React project showcasing the usage of **React Router DOM** for client-side routing in a single-page application (SPA).
+<p>A simple and clean React project showcasing the usage of <b>React Router DOM</b> for client-side routing in a single-page application (SPA).</p>
 
-## 🛠️ Features
+<h2>🛠️ Features</h2>
+<ul>
+  <li>🔁 Seamless navigation without page reloads</li>
+  <li>🧩 Nested Routes using <code>&lt;Outlet /&gt;</code></li>
+  <li>📄 Layout component for consistent structure</li>
+  <li>📂 Organized folder structure (components, assets, etc.)</li>
+  <li>🧱 Easily extendable for larger applications</li>
+</ul>
 
-- 🔁 Seamless navigation without page reloads
-- 🧩 Nested Routes using `<Outlet />`
-- 📄 Layout component for consistent structure
-- 📂 Organized folder structure (components, assets, etc.)
-- 🧱 Easily extendable for larger applications
+<hr>
 
-## 📸 Screenshots
+<h2>📁 Folder Structure</h2>
 
-> Add screenshots of different routed pages if you have them.
-
----
-
-## 📁 Folder Structure
-ReactRouter/
+<pre><code>ReactRouter/
 ├── public/
 ├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── App.css
-│ ├── index.css
-│ ├── Layout.jsx
-│ ├── main.jsx
+│   ├── assets/
+│   ├── components/
+│   ├── App.css
+│   ├── index.css
+│   ├── Layout.jsx
+│   ├── main.jsx
 ├── .gitignore
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
+</code></pre>
 
+<hr>
 
----
+<h2>🚀 Getting Started</h2>
 
-## 🚀 Getting Started
+<h3>📦 Installation</h3>
 
-### 📦 Installation
-
-```bash
-git clone https://github.com/ArhantSahuji/ReactRouter.git
-cd ReactRouter
-npm install
-
-npm run dev
-
-
-
+<pre><code>git clone https://github.com/ArhantSahuji/ReactRouter.git</code></pre>
+<pre><code>cd ReactRouter</code></pre>
+<pre><code>npm install</code></pre>
+<pre><code>npm run dev</code></pre>
 
